@@ -1,0 +1,8 @@
+List of packages that have useful data cleaning functions - 
+1. taxize
+2. traits
+3. redlist
+4. biogeo
+5. rgeospatialquality
+6. scrubr
+7. assetr
